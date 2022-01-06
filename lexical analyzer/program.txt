@@ -1,0 +1,51 @@
+{this is comment}
+PROCEDURE findMin(x, y, z: INTEGER; VAR m: INTEGER);
+temperature = ARRAY [-10 .. 50] OF REAL;
+<= <
+4+4;
+4*4;
+4/4;
+abcdefghijqqqqqqqqqqqqqqq{first 10 case sensitive other not};
+abcdefghijQQQQQQQQQQQQQQQ;
+FUNCTION{here} max(num1, num2: integer): integer;
+VAR
+   result: integer;
+
+BEGIN
+   IF (num1 > num2) THEN
+      result := num1
+   
+   ELSE
+      result := num2;
+   max := result;
+END;
+VAR x,y,sum : integer;
+ERROR EOF ;
+ARRAY DIV IF OR ;
+8  8.0 8E+4 8.67E-43;
+BEGIN
+   WRITELN;
+   WRITE();
+   WRITELN;
+   WRITELN;
+   WRITE();
+   READLN(x);
+   WRITE();
+   READLN(y);
+
+   sum := (x+y);
+   
+   WRITELN;
+   WRITE();
+   WRITELN;
+   WRITELN;
+   WRITE();
+   WRITELN;
+   READLN;
+
+END.
+WHILE number>0 DO
+BEGIN
+   sum := sum + number;
+   number := number - 2;
+END;
